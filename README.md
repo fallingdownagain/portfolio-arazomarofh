@@ -1,1 +1,2 @@
-https://arazomarofh.netlify.app
+# Araz Omarov's Site
+arazomarofh.netlify.app
